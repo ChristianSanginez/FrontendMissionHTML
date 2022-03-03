@@ -1,4 +1,4 @@
-# FrontendMissionHTML
+# FrontendMissionIntro
 Practicas de la semana uno pertenecientes al Frontend Mission de Launch X / Innovaccion Virtual.
 
 ## Introducción a la programación FrontEnd
